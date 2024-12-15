@@ -39,4 +39,11 @@ st.markdown(
 #### Have a great day! Keep working out 💪, keep learning 📚 and Keep smiling  😊 ....                      
 """) 
 
+st.markdown(
+"""
+
+#### [Prev Page <--](https://udaypoojari-405.streamlit.app/EXPERIENCE)
+""")
+
+
 

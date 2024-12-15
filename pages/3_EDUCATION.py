@@ -36,7 +36,12 @@ st.write("""
         
 
 
+st.markdown(
+"""
 
+#### [Next Page -->](https://udaypoojari-405.streamlit.app/EXPERIENCE)
+#### [Prev Page <--](https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS)
+""")
 
 
 

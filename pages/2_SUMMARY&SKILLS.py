@@ -51,7 +51,12 @@ st.markdown(
 """)
 
 
+st.markdown(
+"""
 
+#### [Next Page -->](https://udaypoojari-405.streamlit.app/EDUCATION)
+#### [Prev Page <--](https://udaypoojari-405.streamlit.app/)
+""")
 
 
 #my_image = image.imread("C:/Users/every/OneDrive/Documents/UDAY/StreamLit/MyPage/my_pic.jpg")

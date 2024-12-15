@@ -153,6 +153,13 @@ with st.expander("Click to see my work at Mobis"):
 
 
 
+st.markdown(
+"""
+
+#### [Next Page -->](https://udaypoojari-405.streamlit.app/Contact)
+#### [Prev Page <--](https://udaypoojari-405.streamlit.app/EDUCATION)
+""")
+
 
 
 
