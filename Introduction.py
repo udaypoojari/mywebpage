@@ -6,7 +6,7 @@ Created on Sat Dec 14 18:17:30 2024
 """
 import streamlit as st
 
-page = st.selectbox("Select a page", [""])
+page = st.sidebar.selectbox("Select a page", [""])
 
 
 st.sidebar.markdown("# Introduction")
