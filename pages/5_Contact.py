@@ -6,8 +6,6 @@ Created on Sat Dec 14 18:17:30 2024
 """
 import streamlit as st
 
-import matplotlib.image as image
-
 
 st.sidebar.markdown("# CONTACT DETAILS")
 
