@@ -32,14 +32,8 @@ relationships. I am flexible, versatile, and a very quick learner of new technol
 """)
 
 
-st.markdown(
-"""
 
-#### [Next Page -->](/SUMMARY&SKILLS)
-""", unsafe_allow_html=True)
-
-
-
+st.markdown('<a href="https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS">Click here to visit Next Page</a>', unsafe_allow_html=True)
 
 
 
