@@ -36,7 +36,7 @@ st.markdown(
 """
 
 #### [Next Page -->](/SUMMARY&SKILLS)
-""")
+""", unsafe_allow_html=True)
 
 
 
