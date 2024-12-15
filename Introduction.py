@@ -6,6 +6,14 @@ Created on Sat Dec 14 18:17:30 2024
 """
 import streamlit as st
 
+st.markdown("""
+    <style>
+        .css-18e3th9 {
+            display: block;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 
 st.sidebar.markdown("# Introduction")
 
