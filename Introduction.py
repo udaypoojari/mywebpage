@@ -41,7 +41,7 @@ relationships. I am flexible, versatile, and a very quick learner of new technol
 st.markdown(
 """
 
-#### [Next Page -->](https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS)
+#### [Next Page -->](pages/2_SUMMARY&SKILLS.py)
 """)
 
 
