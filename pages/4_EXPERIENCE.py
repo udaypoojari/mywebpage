@@ -152,7 +152,10 @@ with st.expander("Click to see my work at Mobis"):
     st.write("Finite element modeling and assembling of battery pack, headlamp and cockpit modules.")	
 
 
-
+st.write("")
+st.write("")
+st.write("")
+st.write("")
 st.markdown(
 """
 
