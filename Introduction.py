@@ -36,6 +36,8 @@ st.markdown(
 """
 
 
+
+
 ##### Click on sidebar ">" at top left of the page to navigate through next pages. 
 """)
 
