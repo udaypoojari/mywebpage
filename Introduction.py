@@ -6,7 +6,7 @@ Created on Sat Dec 14 18:17:30 2024
 """
 import streamlit as st
 
-page = st.sidebar.selectbox("Select a page", [""])
+#page = st.sidebar.selectbox("Select a page", [""])
 
 
 st.sidebar.markdown("# Introduction")
@@ -32,10 +32,11 @@ relationships. I am flexible, versatile, and a very quick learner of new technol
 """)
 
 
+st.markdown(
+"""
 
-st.markdown('<a href="https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS">Click here to visit Next Page</a>', unsafe_allow_html=True)
-
-
+#### [Next Page -->](https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS)
+""")
 
 #my_image = image.imread("C:/Users/every/OneDrive/Documents/UDAY/StreamLit/MyPage/my_pic.jpg")
 
