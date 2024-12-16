@@ -35,7 +35,8 @@ relationships. I am flexible, versatile, and a very quick learner of new technol
 st.markdown(
 """
 
-#### Click on sidebar ">" at top left of the page to navigate through next pages. 
+
+##### Click on sidebar ">" at top left of the page to navigate through next pages. 
 """)
 
 
