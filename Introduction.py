@@ -35,8 +35,10 @@ relationships. I am flexible, versatile, and a very quick learner of new technol
 st.markdown(
 """
 
-#### [Next Page -->](https://udaypoojari-405.streamlit.app/SUMMARY&SKILLS)
+#### Click on sidebar ">" at top left of the page to navigate through next pages. 
 """)
+
+
 
 #my_image = image.imread("C:/Users/every/OneDrive/Documents/UDAY/StreamLit/MyPage/my_pic.jpg")
 
