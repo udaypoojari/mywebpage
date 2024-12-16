@@ -30,16 +30,14 @@ have demonstrated these qualities throughout my career. They are also demonstrat
 relationships. I am flexible, versatile, and a very quick learner of new technologies and their implementation.
 
 """)
-
-
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
+st.write("")
 st.markdown(
 """
-\n
-\n
-\n
-\n
-\n
-
 
 
 ##### Click on sidebar ">" at top left of the page to navigate through next pages. 
