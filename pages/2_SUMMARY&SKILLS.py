@@ -6,7 +6,6 @@ Created on Sat Dec 14 18:17:30 2024
 """
 import streamlit as st
 
-
 st.sidebar.markdown("# PROFESSIONAL SUMMARY")
 
 
@@ -54,8 +53,8 @@ st.markdown(
 st.markdown(
 """
 
-#### [Next Page -->](https://udaypoojari-405.streamlit.app/EDUCATION)
-#### [Prev Page <--](https://udaypoojari-405.streamlit.app/)
+
+##### Click on sidebar ">" at top left of the page to navigate through next pages. 
 """)
 
 
