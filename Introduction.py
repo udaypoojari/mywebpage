@@ -1,29 +1,49 @@
+-++
+.
+
+#........ # -*- coding: utf-8 -*-
+"""
+Created on Sat Dec 14 18:17:30 2024
+
+@author: every
+"""
 import streamlit as st
-from pages import Home
-from pages import SUMMARYSKILLS
-from pages import EDUCATION
-from pages import EXPERIENCE
-from pages import Contact
 
-options = ["Home","SUMMARY & SKILLS", "EDUCATION","EXPERIENCE","CONTACT"]
+#page = st.sidebar.selectbox("Select a page", [""])
 
 
-left_column, right_column = st.columns([1.2, 2.8])
+st.sidebar.markdown("# Introduction")
 
-# Add content to the left column
-with left_column:
-    page = st.radio("Select a page", options)
 
-# Add content to the right column
-with right_column:
-    if page == "Home":
-        Home.main()
-    elif page == "SUMMARY & SKILLS":
-        SUMMARYSKILLS.main()
-    elif page == "EDUCATION":
-        EDUCATION.main()
-    elif page == "EXPERIENCE":
-        EXPERIENCE.main()
-    elif page == "CONTACT":
-        Contact.main()   
+st.markdown("<h1 style='text-align: center;'>Welcome to my webpage! 👋 </h1>", unsafe_allow_html=True)
 
+
+st.markdown(
+"""
+
+### A little about me...
+
+I am Uday Kumar Poojari, a mechanical engineer who has extraordinary software development skills and sound product development experience.
+As such, I originally started my career in product development (CAE- computer aided engineering) before becoming
+fascinated with automation, software development, data science and their intersection with product development.
+Now, I work as a software developer to rapidize the product development in automotive and aerospace domain. 
+
+I am a team player who is also comfortable working independently. I 
+have demonstrated these qualities throughout my career. They are also demonstrated by my work ethic and interpersonal 
+relationships. I am flexible, versatile, and a very quick learner of new technologies and their implementation.
+
+""")
+
+
+st.markdown(
+"""
+
+
+##### Click on sidebar ">" at top left of the page to navigate through next pages. 
+""")
+
+
+
+#my_image = image.imread("C:/Users/every/OneDrive/Documents/UDAY/StreamLit/MyPage/my_pic.jpg")
+
+#st.image(my_image, caption="Me at brunch.")
