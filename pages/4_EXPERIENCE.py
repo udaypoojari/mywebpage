@@ -30,13 +30,13 @@ with st.expander("Click to see my work at FORD"):
     """)
     st.write("Designed and Developed applications to aid CAE simulations run on HPC and workstations.")
     st.write("Developed socket query tool to establish interaction between client and server.")
-    st.write("Architected and Developed application to build 1-Dimensional finite element model using ADAMS car data to reduce 60% of project timeline.") 
+    st.write("Architected and Developed application to build 1-Dimensional finite element model using ADAMS car data.") 
     st.write("Built Machine learning models to predict brake temperatures under various test conditions during initial design phase to expedite the brake design process.")
-    st.write("Integrated machine learning model into BEAST (inhouse brakes) tool using ONNX runtime framework. ")
+    #st.write("Integrated machine learning model into BEAST (inhouse brakes) tool using ONNX runtime framework. ")
     st.write("Extended Hypermesh application using HM_EXTAPI to handle finite element data collected from various sources.")
     st.write("Provide solutions to engineers with their data handling, data processing and manipulating problems by developing multiple windows-based applications using C# with .net framework, C++, winform, MFC, python, VBA and bash.") 
     st.write("Developed Macros to automate pre and post-processing of finite element analysis and setup the optimization studies and achieve efficiency greater than 70%.")
-    st.write("Automated Duty cycle load generation process within Ncode and reduced wait time of dependent engineers around 18 hours. ")
+    #st.write("Automated Duty cycle load generation process within Ncode and reduced wait time of dependent engineers around 18 hours. ")
     st.write("Developed and deployed project tracking Dashboards using Qliksense for management and supervisors.")
 
 
